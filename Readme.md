@@ -29,8 +29,6 @@ The focus of this lab is to become familar with the kube-api.  Through this lab 
 ### [Lab 5:](lab5-kudo.md) KUDO Operator
 
 
-## Support Projects
-
 ## Recommendations
 
 Highly recommend [Goland](https://www.jetbrains.com/go) as a Go editor
