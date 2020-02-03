@@ -1,0 +1,8 @@
+apiVersion: d2iq.com/v1
+kind: Thermometer
+metadata:
+    name: stockholm
+    namespace: sweden
+spec:
+    unit: Celcius
+    foo: bar
